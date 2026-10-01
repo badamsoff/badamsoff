@@ -4,49 +4,75 @@
 
 ### Software Architect · Builder · Co-founder & CTO @ [Mainto Studio](https://mainto-studio.com)
 
-**I build software for real-world African constraints.**
+<br/>
 
-Low bandwidth · Mobile Money · Offline-first · XAF · AI
+# I don't build for perfect conditions.<br/>
+# **I build for real ones.**
 
 <br/>
 
+**Africa · Software · AI · Mobile Money · Offline-first**
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badamassi)
-[![GitHub](https://img.shields.io/badge/Badamassi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/badamsoff)
-[![Facebook](https://img.shields.io/badge/-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bello.babadji)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/badamsoff)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bello.babadji)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=badamsoff&style=flat-square&color=635BFF&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
+## ⚡ What I build
+
+I build software around **real-world constraints**:
+
+| | |
+|---|---|
+| 🌍 **African markets** | Products designed around local users, workflows and infrastructure |
+| 📶 **Offline-first** | Software that remains useful when connectivity isn't reliable |
+| 💸 **Mobile Money** | Products built around the payment rails people already use |
+| 🤖 **AI-native** | AI agents, automation, LLM applications and intelligent workflows |
+
+---
+
 ## 👋 About me
 
-I'm a software architect and builder based in **Maroua, Cameroon**.
+I'm a **software architect and builder** based in Cameroon.
 
-I design and ship products adapted to the realities of African markets — where connectivity can be unreliable, Mobile Money is essential, and software needs to work beyond ideal conditions.
+I design and ship products for environments where the assumptions of traditional software don't always hold:
 
-I'm also **Co-founder & CTO of Mainto Studio**, where we turn local problems into scalable technology products and, eventually, independent startups.
+**unstable connectivity · affordable devices · Mobile Money · XAF · local workflows**
 
-I care about one thing above all:
+I'm also **Co-founder & CTO of [Mainto Studio](https://mainto-studio.com)** — a startup studio turning local problems into technology products and, eventually, independent startups.
 
 > **Build useful things. Ship them. Learn from reality.**
 
 ---
 
-## What I'm building
+## 🚀 What I'm building
 
 ### Kadi
 
-**A virtual Visa card inside WhatsApp, powered by Mobile Money.**
+> **A virtual Visa card inside WhatsApp, powered by Mobile Money.**
 
 No dedicated app.  
 No complicated onboarding.  
-Just a card inside a conversation.
+No new payment habit.
 
 **Orange Money · MTN MoMo · WhatsApp**
 
+The idea is simple:
+
+**bring financial tools to the platforms people already use.**
+
 ---
 
-## Tech stack
+## 🧰 Tech stack
 
 ### Frontend
 
@@ -60,34 +86,52 @@ Just a card inside a conversation.
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,cpp,arduino,raspberrypi" alt="Git, GitHub, Linux, Bash, C++, Arduino, Raspberry Pi" />
 
-### AI
+### AI & Automation
 
-AI-assisted development · AI agents · LLM applications · Automation · RAG
+<img src="https://skillicons.dev/icons?i=python,openai" alt="Python and AI development" />
+
+**AI agents · LLM applications · RAG · AI-assisted development · Automation**
 
 ---
 
 ## 🏗️ Selected projects
 
-| Project | Description |
-| --- | --- |
-| **Kadi** | Virtual Visa card via WhatsApp, funded through Mobile Money |
-| **Lisafy** | Offline-first inventory & accounting for Cameroonian SMEs |
-| **JobAgentAI** | AI agents for personalized job discovery in Cameroon |
-| **Learnify** | Turns learning materials into interactive revision experiences |
-| **Yfarmer** | Digital tools for farm management and agricultural financing |
+| Project | What it does |
+|---|---|
+| **Kadi** | Virtual Visa card via WhatsApp + Mobile Money |
+| **Lisafy** | Offline-first inventory & accounting for SMEs |
+| **JobAgentAI** | AI agents for personalized job discovery |
+| **Learnify** | Turns course materials into interactive revision |
+| **Yfarmer** | Digital tools for farm management & financing |
 | **KmerLegal** | AI-assisted access to Cameroonian legal information |
 
-> Many of these projects start as experiments at **Mainto Studio** and evolve based on real user needs.
+> Most of these ideas start as experiments at **Mainto Studio** and evolve through real-world feedback.
 
 ---
 
-## 🌍 Beyond code
+## 🌍 Why I build differently
 
-- 🎤 **Speaker** — DevFest Maroua 2026 · Vibe Coding
-- 🤝 **Mentor** — AfricanWITS Girls in ICT / STEAM
-- 📚 **Author** — *Vibe Coding* & *Chaque Mot Compte*
-- 🤖 **Trainer** — Holiday Tech Camp · Robotics & technology for ages 7–17
-- 🧑🏾‍💻 **Community builder** — Vibe Coding Africa
+Good software isn't always software built for perfect conditions.
+
+Sometimes it's the software that:
+
+- works when the network doesn't;
+- accepts the payment method people already trust;
+- runs on affordable devices;
+- fits existing workflows;
+- solves one painful problem exceptionally well.
+
+**That's the kind of software I want to build.**
+
+---
+
+## 🤝 Beyond code
+
+🎤 **Speaker** — DevFest Maroua 2026 · Vibe Coding  
+🤝 **Mentor** — AfricanWITS · Girls in ICT / STEAM  
+📚 **Author** — *Vibe Coding* & *Chaque Mot Compte*  
+🤖 **Trainer** — Holiday Tech Camp · Robotics & Technology  
+🧑🏾‍💻 **Community Builder** — Vibe Coding Africa
 
 ---
 
@@ -99,27 +143,23 @@ AI-assisted development · AI agents · LLM applications · Automation · RAG
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=badamsoff&show_icons=true&hide_border=true&bg_color=0D1117&title_color=635BFF&icon_color=635BFF&text_color=C9D1D9" alt="Mohamadou Badamassi's GitHub statistics" />
 </a>
 
-<a href="https://github.com/Badamassi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badamassi&layout=compact&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=C9D1D9" alt="Most used programming languages" />
+<a href="https://github.com/badamsoff">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badamsoff&layout=compact&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=C9D1D9" alt="Most used programming languages" />
 </a>
 
 </div>
 
 ---
 
-## 🇨🇲 Why I build for Africa
+## 🇨🇲 Building from Africa
 
-Technology doesn't have to copy Silicon Valley to be good.
+I believe African technology doesn't need to imitate Silicon Valley.
 
-Sometimes the best product is the one that:
+It can start with a different question:
 
-- works with unstable internet;
-- accepts the payment method people already use;
-- works on affordable devices;
-- respects local workflows;
-- solves one painful problem really well.
+> **What happens when we design around the reality of the people who will actually use it?**
 
-That's the kind of software I want to build.
+That's where I like to build.
 
 ---
 
@@ -128,31 +168,33 @@ That's the kind of software I want to build.
 
 <br/>
 
-### À propos
+## 👋 À propos
 
-Je suis **architecte logiciel, builder et cofondateur & CTO de Mainto Studio**, basé à Maroua, au Cameroun.
+Je suis **architecte logiciel, builder et cofondateur & CTO de [Mainto Studio](https://mainto-studio.com)**.
 
-Je conçois des produits adaptés aux réalités africaines : faible connectivité, Mobile Money, usage hors ligne, appareils abordables et paiements en XAF.
+Je conçois des produits adaptés aux réalités africaines :
 
-Chez **Mainto Studio**, nous transformons des problèmes locaux en produits technologiques capables de devenir de véritables startups.
+**faible connectivité · Mobile Money · usage hors ligne · XAF · IA**
+
+Je travaille sur des solutions qui partent des problèmes du terrain plutôt que de conditions idéales.
 
 > **Construire des choses utiles. Les mettre entre les mains des utilisateurs. Apprendre du terrain.**
 
-### Projet actuel
+### 🚀 Projet actuel
 
 **Kadi** — une carte Visa virtuelle accessible directement depuis WhatsApp et alimentée par Orange Money et MTN MoMo.
 
 Pas d'application supplémentaire.  
 Pas de parcours compliqué.  
-Une carte dans une conversation.
+**Une carte dans une conversation.**
 
-### Ma vision
+### 🌍 Ma vision
 
 La technologie africaine ne doit pas simplement reproduire les solutions conçues ailleurs.
 
-Elle doit partir du terrain, des contraintes réelles et des usages locaux.
+Elle peut partir du terrain, des contraintes réelles et des usages locaux.
 
-C'est là que je veux construire.
+**C'est là que je veux construire.**
 
 </details>
 
@@ -160,9 +202,19 @@ C'est là que je veux construire.
 
 <div align="center">
 
-### Let's build something useful.
+### Build useful things. Ship them. Learn from reality.
 
 <br/>
+
+<a href="https://github.com/badamsoff">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/badamassi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=635BFF&height=80&section=footer" alt="" width="100%"/>
 
