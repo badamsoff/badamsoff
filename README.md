@@ -11,8 +11,8 @@ Low bandwidth · Mobile Money · Offline-first · XAF · AI
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badamassi)
-[![GitHub](https://img.shields.io/badge/Mainto_Studio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mainto-studio)
-[![Facebook](https://img.shields.io/badge/X-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bello.babadji)
+[![GitHub](https://img.shields.io/badge/Badamassi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/badamsoff)
+[![Facebook](https://img.shields.io/badge/-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bello.babadji)
 
 </div>
 
