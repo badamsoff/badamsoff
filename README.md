@@ -74,9 +74,15 @@ The idea is simple:
 
 ## 🧰 Tech stack
 
-### Frontend
+### Web
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,figma" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS, Figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,js,figma" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS, Figma" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" alt="Flutter, Kotlin, Android Studio" />
+
+**Jetpack Compose · XML · Android · Cross-platform**
 
 ### Backend & Data
 
@@ -88,7 +94,7 @@ The idea is simple:
 
 ### AI & Automation
 
-<img src="https://skillicons.dev/icons?i=python,openai" alt="Python and AI development" />
+<img src="https://skillicons.dev/icons?i=python,n8n,make,openai" alt="Python and AI development" />
 
 **AI agents · LLM applications · RAG · AI-assisted development · Automation**
 
