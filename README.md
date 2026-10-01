@@ -2,7 +2,7 @@
 
 # Mohamadou Badamassi B.
 
-### Software Architect · Builder · Co-founder & CTO @ [Mainto Studio](https://mainto.studio)
+### Software Architect · Builder · Co-founder & CTO @ [Mainto Studio](https://mainto-studio.com)
 
 **I build software for real-world African constraints.**
 
@@ -12,7 +12,7 @@ Low bandwidth · Mobile Money · Offline-first · XAF · AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badamassi)
 [![GitHub](https://img.shields.io/badge/Mainto_Studio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mainto-studio)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/badamassi)
+[![Facebook](https://img.shields.io/badge/X-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/bello.babadji)
 
 </div>
 
@@ -95,8 +95,8 @@ AI-assisted development · AI agents · LLM applications · Automation · RAG
 
 <div align="center">
 
-<a href="https://github.com/Badamassi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Badamassi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=635BFF&icon_color=635BFF&text_color=C9D1D9" alt="Mohamadou Badamassi's GitHub statistics" />
+<a href="https://github.com/badamsoff">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=badamsoff&show_icons=true&hide_border=true&bg_color=0D1117&title_color=635BFF&icon_color=635BFF&text_color=C9D1D9" alt="Mohamadou Badamassi's GitHub statistics" />
 </a>
 
 <a href="https://github.com/Badamassi">
